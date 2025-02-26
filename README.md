@@ -8,7 +8,7 @@ This project examines marathon trends by looking into **Exploratory Data Analysi
 - **Performance Trends:** Winning times have become better thanks to **advances in training and technology**.
 - **External Factors:** Weather conditions and course elevation play a major role in affecting finish times.
 
-## Business Relevance [The (So What?) of the project] 
+## Business Relevance 
 - **Race Organizers:** Maximize event logistics and scheduling according to past participation trends.
 - **Sponsors & Marketers:** Target audiences based on demographic shifts and engagement trends.
 
@@ -35,7 +35,7 @@ plt.ylabel("Winning Time (minutes)")
 plt.show()
 ```
 
-## In conclusion 
+## To conclude 
 This EDA looks into key trends **marathon trends and performance-affecting factors** to offer practical guidance for **race organizers, runners, and sponsors**. 
 The main takeaway of this project is that there is a seasonality to these average finish times, with summer marathons averaging the slowest (6.87 hours) and fall marathons averaginq the fastest (7.40 hours) during this period. This indicates that seasonal and weather conditions significantly influence runner performance and informs race planning and training schemes for best results.
 

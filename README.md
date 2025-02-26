@@ -8,9 +8,6 @@ This project examines marathon trends by looking into **Exploratory Data Analysi
 - **Performance Trends:** Winning times have become better thanks to **advances in training and technology**.
 - **External Factors:** Weather conditions and course elevation play a major role in affecting finish times.
 
-## Business Relevance 
-- **Race Organizers:** Maximize event logistics and scheduling according to past participation trends.
-- **Sponsors & Marketers:** Target audiences based on demographic shifts and engagement trends.
 
 ## Example Code Snippets
 ### Load and Inspect Data
